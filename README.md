@@ -1,5 +1,8 @@
 # 📰 Fake News Detection System (Machine Learning)
 
+<img width="1913" height="962" alt="Screenshot 2026-02-15 010711" src="https://github.com/user-attachments/assets/ab34fe25-0601-4491-944b-6d7f3ad7bd34" />
+
+
 A web-based application that detects fake and real news articles using Natural Language Processing and Machine Learning techniques.
 
 This project was developed as part of an AI & ML Internship.
